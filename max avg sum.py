@@ -8,4 +8,3 @@ class Solution(object):
         return m_sum/float(k)
 
 
-        
